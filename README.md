@@ -3,7 +3,8 @@ PROJETO: Sales Report – Data Engineering Programming (FIAP)
 Alunos:\
   RM:361235 - Izabel Aparecida Mota Soares\
   RM: 361532 - Caio Victor Aloe da Silva Matos\
-  RM: 361466 - Ricardo Antônio Ferreira Junior
+  RM: 361466 - Ricardo Antônio Ferreira Junior\
+  RM: 364071 - Celso Leandro Gobetti Ferreira
 
 Professor: Marcelo Barbosa Pinto
 
