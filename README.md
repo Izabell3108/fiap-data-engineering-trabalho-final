@@ -4,7 +4,8 @@ Alunos:\
   RM:361235 - Izabel Aparecida Mota Soares\
   RM: 361532 - Caio Victor Aloe da Silva Matos\
   RM: 361466 - Ricardo Antônio Ferreira Junior\
-  RM: 364071 - Celso Leandro Gobetti Ferreira
+  RM: 364071 - Celso Leandro Gobetti Ferreira\
+  RM: 362951 - Matheus Valentim Cornélio
 
 Professor: Marcelo Barbosa Pinto
 
