@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fiap-data-engineering-trabalho-final"
+version = "1.0.0"
+description = "Trabalho final da disciplina Data Engineering Programming (FIAP)"
+authors = [
+    { name = "Izabel Mota", email = "comercial.wbs@icloud.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pyspark>=3.5.0",
+    "delta-spark",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
